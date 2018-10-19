@@ -6,7 +6,9 @@
          <li>HTML</li>
          <li>CSS</li>
          <li>How to use a text editor</li>
+         <li>How to use a terminal</li>
+         <li>Git</li>
        </ol>
-    </div>
+     </div>
   </body>
 </html>
